@@ -1,0 +1,4 @@
+# 安装包只作为 GitHub Release 附件上传，不进 git 版本历史（避免仓库无限膨胀）。
+*.dmg
+*.zip
+.DS_Store
